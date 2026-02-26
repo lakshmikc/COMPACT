@@ -1,5 +1,5 @@
 # COMPACT
-COMPACT (Comparative Pattern Counts) is an open-source R-based pipeline for analyzing high-throughput genomic data, with a focus on identifying and comparing gene expression patterns across biological conditions.
+COMPACT (Comparative Pattern Counts) is an open-source R-based pipeline for analyzing high-throughput omics data, with a focus on identifying and comparing gene expression patterns across biological conditions.
 # COMPACT — Comparative Pattern Counts
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
