@@ -22,7 +22,7 @@ WHY is it different? Because it can identify both signifincat AND subtle pattern
 
 Biological datasets are complex, noisy, and often high-dimensional. COMPACT was designed to cut through that complexity by:
 
-- Identifying **statistically robust expression patterns** across experimental conditions
+- Identifying **both sgnificant and subtle expression patterns** across experimental conditions
 - Performing **comparative pattern counting** to reveal condition-specific and shared signatures
 - Enabling **systems-level interpretation** of transcriptomic data
 - Providing **publication-ready visualizations** of genomic patterns
