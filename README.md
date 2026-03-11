@@ -132,7 +132,7 @@ Contributions are welcome! If you find a bug, have a feature request, or want to
 **Lakshmi Kuttippurathu, PhD**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lakshmikc/)
 - 📚 [Publications (ORCID)](https://orcid.org/0000-0001-6612-9040)
-- 📧 lakshmikc@gmail.com
+- 📧 lakshmikc@encurebio.com
 
 ---
 
